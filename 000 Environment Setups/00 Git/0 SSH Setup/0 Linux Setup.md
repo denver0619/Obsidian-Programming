@@ -1,0 +1,42 @@
+# Generating key
+1. In a terminal run the following
+   ```shell 
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+2. Click enter for default name, or input the name of your own
+3. Click enter for no password, or input the password you want
+4. Click enter again, or enter the same password
+5. In terminal run the followng, to start the ssh-agent
+```shell
+eval "$(ssh-agent -s)"
+```
+6. add the generated key in the ssh-agent
+ ```shell
+ssh-add ~/.ssh/id_ed25519
+```
+
+# Adding key to Github
+1. In a terminal run the following to get the key
+```shell
+cat ~/.ssh/id_ed25519.pub
+```
+2. Copy the output of the terminal
+3. Proceed to [[3 Adding key to Github Web]]
+
+# Test Connection
+1. In a terminal run the following
+```shell
+ssh -T git@github.com
+# Attempts to ssh to GitHub
+```
+2. It will output the following, just type yes then enter
+```shell
+> The authenticity of host 'github.com (IP ADDRESS)' can't be established.
+> ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+> Are you sure you want to continue connecting (yes/no)?
+```
+3. Check if the following matches your github username, otherwise you made a mistake.
+```shell
+> Hi USERNAME! You've successfully authenticated, but GitHub does not
+> provide shell access.
+```
