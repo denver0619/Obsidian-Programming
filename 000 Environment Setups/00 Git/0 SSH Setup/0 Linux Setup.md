@@ -1,6 +1,6 @@
 # Generating key
 1. In a terminal run the following
-   ```shell 
+```shell 
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 2. Click enter for default name, or input the name of your own
