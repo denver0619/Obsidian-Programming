@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a32e72ac0d2fd3db",
+        "id": "1a19861b2c83aa47",
         "type": "tabs",
         "children": [
           {
-            "id": "acf0dce02e860e60",
+            "id": "7ec4721186d664dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.2 Windows Setup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "030.1.1.2 Windows Setup"
             }
           }
         ]
@@ -158,24 +162,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acf0dce02e860e60",
+  "active": "7ec4721186d664dd",
   "lastOpenFiles": [
-    "000 Environment Setups/00 Git/0 SSH Setup/0 Linux Setup.md",
-    "000 Environment Setups/01 Termux/0 Storage",
-    "000 Environment Setups/01 Termux/0 Storage/termux-setup-storage.md",
-    "000 Environment Setups/00 Git/0 SSH Setup/3 Adding key to Github Web.md",
-    "000 Environment Setups/00 Git/0 SSH Setup/2 Mac Setup.md",
-    "000 Environment Setups/00 Git/0 SSH Setup/1 Windows Setup.md",
-    "000 Environment Setups/00 Git/0 SSH Setup",
-    "000 Environment Setups/00 Git/Untitled.md",
-    "000 Environment Setups/02 Obsidian/0 Git Sync Setup/0 Cloning Github Repository.md",
-    "000 Environment Setups/02 Obsidian/0 Git Sync Setup/Obsidian Git Setup Android.md",
-    "000 Environment Setups/02 Obsidian/0 Git Sync Setup",
-    "README.md",
-    "000 Environment Setups/02 Obsidian",
-    "Untitled.md",
-    "000 Environment Setups/00 Git",
-    "000 Environment Setups/01 Termux",
-    "000 Environment Setups"
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.1 Linux Setup.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git Submodules/030.1.1 Git Submodules.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1 Git.md",
+    "000 System and Environment/050 Cloud and Infrastructure Basics",
+    "000 System and Environment/030 Tooling/030.2 Editors and IDEs",
+    "000 System and Environment/040 Virtualization and Containers",
+    "000 System and Environment/030 Tooling",
+    "000 System and Environment/020 Shells and Terminals",
+    "000 System and Environment/010 Operating Systems",
+    "00 SSH Setup/0 Index - SSH Setup.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git Submodules/030.1.1.2 Execution.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1 Git SSH Setup.md",
+    "00 SSH Setup",
+    "01 Submodules/0 Index - Submodules.md",
+    "01 Submodules",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git Submodules/030.1.1.1 Introduction.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.3 Mac Setup.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.2 Windows Setup.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.4 Adding key to Github Web.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git Submodules",
+    "000 System and Environment/030 Tooling/030.3 Termux/0 Storage",
+    "000 System and Environment/030 Tooling/030.3 Termux/0 Storage/termux-setup-storage.md",
+    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/0 Cloning Github Repository.md",
+    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/Obsidian Git Setup Android.md",
+    "README.md"
   ]
 }
