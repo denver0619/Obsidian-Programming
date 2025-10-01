@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71013d85f66889d0",
+        "id": "5981f098cea1a170",
         "type": "tabs",
         "children": [
           {
-            "id": "c2bfa7505b248abf",
+            "id": "8f44c06825878838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "300 Web and APIs/310 Frontend/310.1 React JS/310.1.2 React JS Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "310.1.2 React JS Setup"
             }
           }
         ]
@@ -162,22 +162,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2bfa7505b248abf",
+  "active": "8f44c06825878838",
   "lastOpenFiles": [
+    "300 Web and APIs/310 Frontend/310.1 React JS/310.1.3 Project Structure.md",
+    "300 Web and APIs/310 Frontend/310.1 React JS/310.1.2 React JS Setup.md",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.1 Linux Setup.md",
+    "300 Web and APIs/310 Frontend/310.1 React JS/310.1.1 Introduction.md",
+    "300 Web and APIs/310 Frontend/310.1 React JS/310.1 React JS.md",
+    "300 Web and APIs/310 Frontend/310 Frontend.md",
+    "300 Web and APIs/310 Frontend/310.1 React JS",
+    "700 Personal Stuff/710 Notes/710.1 GalaxyBookEnabler/710.1.1 Enable Galaxy Services on Non Galaxy Book Device.md",
+    "700 Personal Stuff/710 Notes/710.1 GalaxyBookEnabler",
+    "700 Personal Stuff/710 Notes",
+    "700 Personal Stuff",
+    "600 Miscellaneous/Untitled",
+    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1 Git SSH Setup.md",
+    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/0 Cloning Github Repository.md",
+    "README.md",
     "600 Miscellaneous/630 Notes",
     "600 Miscellaneous/620 Reference snippets - cheatsheets",
     "600 Miscellaneous/610Personal Projects",
     "600 Miscellaneous",
     "500 Software Development, Deployment and Operations (DevOps)/530 Kubernetes - Orchestration/540 Monitoring - Logging",
-    "500 Software Development, Deployment and Operations (DevOps)/530 Kubernetes - Orchestration",
-    "500 Software Development, Deployment and Operations (DevOps)/520 Infrastructure as Code/520.2 Ansible",
-    "500 Software Development, Deployment and Operations (DevOps)/520 Infrastructure as Code/520.1 Terraform",
-    "500 Software Development, Deployment and Operations (DevOps)/520 Infrastructure as Code",
-    "500 Software Development, Deployment and Operations (DevOps)/510 Continouos Integrantion and Continuous Delivery (CI-CD))",
-    "500 Software Development, Deployment and Operations (DevOps)",
-    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1 Git SSH Setup.md",
     "200 Programming Languages/Untitled.canvas",
-    "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.1 Linux Setup.md",
     "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.2 Windows Setup.md",
     "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git Submodules/030.1.1 Git Submodules.md",
     "000 System and Environment/030 Tooling/030.1 Git/030.1 Git.md",
@@ -188,8 +195,6 @@
     "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.3 Mac Setup.md",
     "000 System and Environment/030 Tooling/030.1 Git/030.1.1 Git SSH Setup/030.1.1.4 Adding key to Github Web.md",
     "000 System and Environment/030 Tooling/030.3 Termux/0 Storage/termux-setup-storage.md",
-    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/0 Cloning Github Repository.md",
-    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/Obsidian Git Setup Android.md",
-    "README.md"
+    "000 System and Environment/030 Tooling/030.4 Obsidian/0 Git Sync Setup/Obsidian Git Setup Android.md"
   ]
 }
